@@ -1,3 +1,5 @@
+#ubuntu üzerinde matlab plot sorunu yaşıyorsanız ...
+
 #!/bin/bash
 
 cd ~/MATLAB/2014b/bin/glnxa64
